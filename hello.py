@@ -1,4 +1,4 @@
 print("ggod morninhhhhhhhg")
 print("jjjjjjjjjj")
 print("uuuu")
-a=b+c 
+a=3
