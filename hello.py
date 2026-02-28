@@ -1,4 +1,4 @@
-print("ggod morning")
+print("ggod morninhhhhhhhg")
 print("jjjjjjjjjj")
 print("uuuu")
 a=b+c 
